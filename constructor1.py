@@ -35,7 +35,7 @@ class Operation:
             r=(carry%10)
             total=(total+r)
             carry=(carry//10)
-        print("The sum of the digits of the given number is",total)
+        print("The sum of the digits of the given number is %d" %total)
 num = Operation(int(input("Enter the number : ")))
 num.perfect()
 num.palindrome()
