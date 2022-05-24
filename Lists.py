@@ -1,7 +1,7 @@
 myList = [80,82,83,81]
 # print(len(myList))            # len() function is used to get the length of a list.
 # print(type(myList))           # type() functions returns the data type of the specified variable.
-print(sum(myList))         # sum() function is used to perform the addition of the all values in the list.
+print(sum(myList))              # sum() function is used to perform the addition of the all values in the list.
 # # print(myList[0] + myList[1] + myList[2] + myList[3])     # This is used for same purpose as above.
 # myList.insert(2,70)           # insert(index,value) function is used to insert data element or values in the mentioned index in the list.
 # print(myList)
